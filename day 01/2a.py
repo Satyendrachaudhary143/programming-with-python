@@ -1,0 +1,1 @@
+print("hellow \n satyendra \n how are you") #  next line 
